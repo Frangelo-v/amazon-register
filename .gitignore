@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+cookies/
+debug/
+fingerprints/
+*.bin
+*.har
+*.md
+3d/
+test/
+ship/
+tools/
+.playwright-mcp/
